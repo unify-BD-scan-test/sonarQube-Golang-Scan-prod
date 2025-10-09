@@ -28,4 +28,3 @@ jobs:
           username: ${{ secrets.SONARQUBE_USERNAME }}
           password: ${{ secrets.SONARQUBE_PASSWORD }}
           ref: main
-          
